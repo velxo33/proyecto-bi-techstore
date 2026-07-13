@@ -42,3 +42,37 @@ proyecto-bi-techstore/
 │
 ├── requirements.txt                # Dependencias del proyecto
 └── README.md                       # Documentación principal
+
+
+
+## 🛠️ Requisitos e Instalación (Entorno Windows)
+
+El proyecto ha sido diseñado para ejecutarse en un entorno aislado usando **Miniconda/Anaconda** con **Python 3.10+**. 
+Para configurar el entorno y ejecutar los notebooks, abre `Anaconda Prompt` y sigue estos pasos:
+
+1. **Clonar el repositorio y navegar a la carpeta raíz:**
+   ```cmd
+   git clone <URL_DEL_REPOSITORIO>
+   cd proyecto-bi-techstore
+
+
+conda create -n bi_techstore python=3.10 -y
+conda activate bi_techstore
+
+
+pip install -r requirements.txt
+
+jupyter notebook
+
+
+
+🚀 Orden de Ejecución
+Para garantizar que los datos fluyan correctamente a través de los modelos, los notebooks deben ejecutarse estrictamente en orden numérico:
+
+Ejecutar 00_generacion_datos.ipynb para poblar la carpeta data/raw/.
+
+Ejecutar 01_datamart_etl.ipynb para limpiar la data y llenar data/processed/.
+
+Ejecutar los notebooks del 02 al 06 para generar el EDA, los modelos y los archivos analíticos finales (predicciones_abandono.csv, segmentacion_clientes.csv, reglas_asociacion.csv, predicciones_regresion_ventas.csv).
+
+Una vez ejecutados todos los scripts, se debe abrir el archivo TechStore.pbix y actualizar los orígenes de datos apuntando a la carpeta local data/processed/ para visualizar los resultados en el tablero de control.
