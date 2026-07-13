@@ -1,0 +1,16 @@
+id_tienda,nombre,canal,region,ciudad
+1,Techstore San Isidro,Fisico,Lima,Lima
+2,Techstore Miraflores,Fisico,Lima,Lima
+3,Techstore Jockey Plaza,Fisico,Lima,Lima
+4,Techstore Mega Plaza,Fisico,Lima,Lima
+5,Techstore Plaza Norte,Fisico,Lima,Lima
+6,Techstore Salaverry,Fisico,Lima,Lima
+7,Techstore La Molina,Fisico,Lima,Lima
+8,Techstore Callao,Fisico,Callao,Callao
+9,Techstore Arequipa Real Plaza,Fisico,Arequipa,Arequipa
+10,Techstore Trujillo Mall Aventura,Fisico,La Libertad,Trujillo
+11,Techstore Chiclayo Real Plaza,Fisico,Lambayeque,Chiclayo
+12,Techstore Cusco,Fisico,Cusco,Cusco
+13,Techstore Online Perú,Online,Lima,Lima
+14,Techstore App Marketplace,Online,Lima,Lima
+15,Techstore Outlet Online,Online,Lima,Lima

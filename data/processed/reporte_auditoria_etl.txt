@@ -1,0 +1,31 @@
+================================================================
+REPORTE DE AUDITORIA - ETL DATAMART TECHSTORE
+Fecha de ejecucion: 2026-07-12 22:39:28
+================================================================
+
+--- FUENTE (fact_ventas) ---
+Registros extraidos          : 60,900
+Duplicados por llave negocio  : 900
+Huerfanos id_producto (inicial): 307
+
+--- TRANSFORMACION ---
+Registros tras limpieza       : 59,700
+Registros eliminados          : 1,200
+
+--- CALIDAD DE DATOS (fact_ventas) ---
+Nulos antes                   : 35,928
+Nulos despues                 : 0
+Filas duplicadas antes        : 291
+Filas duplicadas despues      : 0
+
+--- INTEGRIDAD REFERENCIAL FINAL ---
+Huerfanos id_producto          : 0
+Huerfanos id_cliente            : 0
+Huerfanos id_tienda             : 0
+Huerfanos id_promocion          : 0
+
+--- CARGA ---
+Carpeta de salida             : ../data/processed
+Tablas cargadas               : dim_cliente, dim_producto, dim_tienda, dim_promocion, dim_tiempo, fact_ventas
+Tiempo total (seg)            : 219.91
+================================================================

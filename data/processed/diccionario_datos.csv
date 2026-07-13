@@ -1,0 +1,45 @@
+tabla,campo,tipo_dato,es_llave,descripcion
+fact_ventas,id_venta,int64,True,Identificador de la boleta/orden de venta
+fact_ventas,fecha,datetime64[ns],False,Fecha en que se realizo la venta (llave hacia dim_tiempo)
+fact_ventas,id_cliente,int64,False,Llave foranea hacia dim_cliente
+fact_ventas,id_producto,int64,True,Llave foranea hacia dim_producto
+fact_ventas,id_tienda,int64,False,Llave foranea hacia dim_tienda
+fact_ventas,id_promocion,int64,False,Llave foranea hacia dim_promocion (0 = sin promocion)
+fact_ventas,cantidad,int64,False,Unidades vendidas del producto en la linea de venta
+fact_ventas,precio_unitario,float64,False,"Precio de venta por unidad, en soles"
+fact_ventas,descuento,float64,False,"Descuento aplicado, en puntos porcentuales (0-100)"
+fact_ventas,importe,float64,False,cantidad x precio_unitario x (1 - descuento/100)
+fact_ventas,costo_total,float64,False,cantidad x costo unitario del producto
+fact_ventas,margen,float64,False,importe - costo_total
+dim_cliente,id_cliente,int64,True,Llave foranea hacia dim_cliente
+dim_cliente,nombre,object,False,"Nombre completo (persona o producto, segun tabla)"
+dim_cliente,sexo,object,False,Sexo del cliente (M/F)
+dim_cliente,fecha_nacimiento,datetime64[ns],False,Fecha de nacimiento del cliente
+dim_cliente,distrito,object,False,Distrito de residencia del cliente (Desconocido si no se registro)
+dim_cliente,fecha_alta,datetime64[ns],False,Fecha de inscripcion del cliente al programa de fidelizacion
+dim_cliente,segmento_programa,object,False,Nivel del programa de fidelizacion (Bronce/Plata/Oro/Platino)
+dim_producto,id_producto,int64,True,Llave foranea hacia dim_producto
+dim_producto,nombre,object,False,"Nombre completo (persona o producto, segun tabla)"
+dim_producto,categoria,object,False,"Categoria del producto, normalizada"
+dim_producto,subcategoria,object,False,Subcategoria del producto
+dim_producto,marca,object,False,Marca del producto
+dim_producto,precio_lista,float64,False,"Precio de lista sugerido, en soles"
+dim_producto,costo,float64,False,"Costo unitario del producto, en soles"
+dim_tienda,id_tienda,int64,True,Llave foranea hacia dim_tienda
+dim_tienda,nombre,object,False,"Nombre completo (persona o producto, segun tabla)"
+dim_tienda,canal,object,False,Canal de venta de la tienda (fisico/online)
+dim_tienda,region,object,False,Region geografica de la tienda
+dim_tienda,ciudad,object,False,Ciudad donde opera la tienda
+dim_promocion,id_promocion,int64,True,Llave foranea hacia dim_promocion (0 = sin promocion)
+dim_promocion,nombre,object,False,"Nombre completo (persona o producto, segun tabla)"
+dim_promocion,tipo,object,False,"Tipo de promocion (Bundle, Descuento %, Liquidacion, Cupon, 2x1, Ninguna)"
+dim_promocion,descuento_pct,int64,False,"Descuento nominal de la promocion, en puntos porcentuales"
+dim_promocion,fecha_inicio,datetime64[ns],False,Fecha de inicio de vigencia de la promocion
+dim_promocion,fecha_fin,datetime64[ns],False,Fecha de fin de vigencia de la promocion
+dim_tiempo,fecha,datetime64[ns],True,Fecha en que se realizo la venta (llave hacia dim_tiempo)
+dim_tiempo,dia,int64,False,Dia del mes
+dim_tiempo,mes,int64,False,Mes del anio (1-12)
+dim_tiempo,trimestre,int64,False,Trimestre del anio (1-4)
+dim_tiempo,anio,int64,False,Anio calendario
+dim_tiempo,dia_semana,object,False,Nombre del dia de la semana
+dim_tiempo,es_feriado,int64,False,"Indicador de feriado (1 = si, 0 = no)"

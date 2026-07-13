@@ -1,0 +1,501 @@
+id_producto;nombre;categoria;subcategoria;marca;precio_lista;costo
+1;Samsung Gama Baja HF-6686;  celulares  ;Gama Baja;Samsung;5919.7;3350.8
+2;Bose Audifonos CW-9976;;Audifonos;Bose;745.34;455.68
+3;Dell Desktop KA-9833;Computadoras;Desktop;Dell;4738.0;3691.27
+4;Apple Gaming BV-1705;Laptops;Gaming;Apple;2760.87;2199.22
+5;Apple Ultrabook QW-8353;laptops;Ultrabook;Apple;4803.64;3261.81
+6;Huawei Gama Baja BU-8195;Celulares;Gama Baja;Huawei;4112.96;3233.75
+7;Kingston Procesadores PX-7285;componentes;Procesadores;Kingston;3797.21;2701.78
+8;Intel Memorias RAM XW-3399;;Memorias RAM;Intel;439.1;322.93
+9;Samsung Android YZ-8242;Tablets;Android;Samsung;1363.28;1072.99
+10;Western Digital Discos HDD VJ-2177;Almacenamiento;Discos HDD;Western Digital;1156.23;709.99
+11;Epson Impresoras Laser RB-0158;Impresion;Impresoras Laser;Epson;1597.76;1270.82
+12;Xtech Soportes NA-6879;accesorios;Soportes;Xtech;389.59;306.97
+13;Asus Gaming VN-3028;  Laptops  ;Gaming;Asus;6317.06;3903.84
+14;Sony Volantes WY-2727;GAMING;Volantes;Sony;2944.74;1648.58
+15;Redragon Mouse QU-6983;PERIFERICOS;Mouse;Redragon;598.56;367.12
+16;Xiaomi Gama Media UI-1502;CELULARES;Gama Media;Xiaomi;737.93;423.19
+17;Sony Audifonos GP-8546;AUDIO;Audifonos;Sony;782.56;436.29
+18;Amazon Focos Inteligentes AI-0873;  Hogar Inteligente  ;Focos Inteligentes;Amazon;807.89;548.45
+19;Motorola Gama Alta OD-9720;celulares;Gama Alta;Motorola;4085.35;2618.88
+20;Nintendo Consolas YE-3827;Gaming;Consolas;Nintendo;2095.33;1201.01
+21;Targus Cables WG-7711;  accesorios  ;Cables;Targus;202.49;131.26
+22;Xtech Fundas SU-4252;  accesorios  ;Fundas;Xtech;183.71;134.16
+23;JBL Barras de Sonido AX-7863;  Audio  ;Barras de Sonido;JBL;289.45;230.92
+24;Intel Memorias RAM FJ-9007;Componentes;Memorias RAM;Intel;2094.96;1633.87
+25;HyperX Webcams JM-1024;;Webcams;HyperX;575.86;438.55
+26;Apple Gama Baja RD-4473;CELULARES;Gama Baja;Apple;1349.01;765.06
+27;Belkin Fundas GW-5777;;Fundas;Belkin;92.14;57.77
+28;Apple Gama Baja LO-9619;CELULARES;Gama Baja;Apple;2105.69;1509.81
+29;Belkin Cables TN-7165;accesorios;Cables;Belkin;141.84;92.47
+30;Kingston Discos HDD XD-6566;Almacenamiento;Discos HDD;Kingston;541.51;423.2
+31;NVIDIA Memorias RAM NU-6409;Componentes;Memorias RAM;NVIDIA;1869.13;1482.02
+32;AOC Estandar SX-6833;  monitores  ;Estandar;AOC;1193.52;709.46
+33;TP-Link Camaras de Seguridad TX-4009;;Camaras de Seguridad;TP-Link;918.41;598.95
+34;Epson Multifuncionales RY-2242;Impresion;Multifuncionales;Epson;1457.65;917.37
+35;TP-Link Switches MS-5379;Redes;Switches;TP-Link;686.55;463.45
+36;Acer Gaming EW-2219;LAPTOPS;Gaming;Acer;2000.65;1494.86
+37;Epson Impresoras Tinta DB-4390;Impresion;Impresoras Tinta;Epson;1760.07;1337.24
+38;Razer Controles AD-5473;Gaming;Controles;Razer;2706.26;1590.2
+39;ASUS Curvo HF-1579;Monitores;Curvo;ASUS;1892.33;1181.6
+40;Ubiquiti Repetidores EZ-5010;Redes;Repetidores;Ubiquiti;826.45;539.77
+41;Anker Fundas GC-2600;accesorios;Fundas;Anker;213.96;145.63
+42;HyperX Teclados KT-2658;Perifericos;Teclados;HyperX;243.93;157.54
+43;HyperX Combos MD-3475;Perifericos;Combos;HyperX;755.91;537.2
+44;Apple Android SG-8335;Tablets;Android;Apple;635.59;505.56
+45;NVIDIA Fuentes de Poder FM-8357;Componentes;Fuentes de Poder;NVIDIA;4704.78;3233.77
+46;Redragon Mouse ZE-2149;Perifericos;Mouse;Redragon;581.05;366.2
+47;Razer Controles PT-9146;Gaming;Controles;Razer;1651.36;1185.87
+48;Canon Impresoras Tinta RP-8664;impresion;Impresoras Tinta;Canon;623.73;438.72
+49;Dell Gaming FS-2031;Laptops;Gaming;Dell;2163.75;1554.98
+50;Apple Convertible JX-2665;Laptops;Convertible;Apple;5369.83;3248.76
+51;Motorola Gama Baja IV-8246;celulares;Gama Baja;Motorola;1125.96;689.28
+52;Seagate Memorias microSD QI-4927;Almacenamiento;Memorias microSD;Seagate;781.1;615.07
+53;Dell Gaming SV-4000;Laptops;Gaming;Dell;6650.68;4820.21
+54;Motorola Gama Baja QD-2086;CELULARES;Gama Baja;Motorola;4483.33;3268.96
+55;Intel Procesadores UF-1460;Componentes;Procesadores;Intel;3505.47;2317.62
+56;Apple Android RN-9085;Tablets;Android;Apple;2186.07;1691.54
+57;Dell Profesional PM-2716;Monitores;Profesional;Dell;1711.06;1201.34
+58;D-Link Routers AP-0335;Redes;Routers;D-Link;677.08;375.75
+59;Razer Controles ZA-3693;Gaming;Controles;Razer;1434.08;976.64
+60;Logitech Webcams LD-1000;Perifericos;Webcams;Logitech;596.11;451.75
+61;JBL Barras de Sonido EJ-8993;Audio;Barras de Sonido;JBL;867.67;558.3
+62;Lenovo Mini PC ZT-7810;Computadoras;Mini PC;Lenovo;5801.17;3860.45
+63;Logitech Webcams PO-8028;Perifericos;Webcams;Logitech;610.82;346.4
+64;Brother Multifuncionales IM-5415;Impresion;Multifuncionales;Brother;2033.16;1511.87
+65;Asus Gaming VO-2909;laptops;Gaming;Asus;4922.37;2774.09
+66;HyperX Teclados AB-0437;Perifericos;Teclados;HyperX;586.02;340.16
+67;Sony Sillas Gamer KI-1366;  Gaming  ;Sillas Gamer;Sony;1431.17;1077.51
+68;Razer Webcams IR-0812;PERIFERICOS;Webcams;Razer;295.45;187.02
+69;Targus Protectores de Pantalla WK-6815;ACCESORIOS;Protectores de Pantalla;Targus;189.36;123.36
+70;Acer Gaming AW-4747;LAPTOPS;Gaming;Acer;3868.11;2949.07
+71;Ubiquiti Routers WR-3110;Redes;Routers;Ubiquiti;245.57;160.42
+72;Samsung Gama Media NB-8330;  CELULARES  ;Gama Media;Samsung;5743.61;4017.82
+73;Ubiquiti Routers NG-7397;Redes;Routers;Ubiquiti;659.6;506.85
+74;Anker Cables LH-4218;Accesorios;Cables;Anker;27.49;21.82
+75;Anker Fundas OE-4269;  Accesorios  ;Fundas;Anker;162.43;123.33
+76;TP-Link Routers ZZ-6501;Redes;Routers;TP-Link;726.22;439.49
+77;Logitech Barras de Sonido GF-7671;  audio  ;Barras de Sonido;Logitech;87.59;66.75
+78;Anker Fundas IZ-7628;accesorios;Fundas;Anker;269.92;183.05
+79;D-Link Repetidores IH-3636;Redes;Repetidores;D-Link;334.14;236.1
+80;Nintendo Sillas Gamer XY-5016;Gaming;Sillas Gamer;Nintendo;556.64;325.64
+81;Microsoft Controles LK-2762;Gaming;Controles;Microsoft;1380.58;1066.22
+82;Apple Gama Baja CG-2666;Celulares;Gama Baja;Apple;637.61;454.28
+83;Razer Volantes CP-8093;gaming;Volantes;Razer;1727.74;1245.41
+84;Redragon Webcams KL-6165;Perifericos;Webcams;Redragon;566.4;317.74
+85;Samsung iPadOS AD-8989;tablets;iPadOS;Samsung;1316.78;756.93
+86;Apple Gama Alta ZU-4993;celulares;Gama Alta;Apple;1471.34;1167.19
+87;Xiaomi Gama Alta UV-9812;CELULARES;Gama Alta;Xiaomi;1693.37;1284.79
+88;ASUS Gaming JB-9777;  Monitores  ;Gaming;ASUS;1764.4;1166.09
+89;ASUS Profesional SB-5976;  monitores  ;Profesional;ASUS;1479.7;919.76
+90;Belkin Protectores de Pantalla VI-8385;accesorios;Protectores de Pantalla;Belkin;77.26;45.99
+91;Logitech Teclados TS-0501;Perifericos;Teclados;Logitech;301.18;197.39
+92;Kingston Discos HDD VE-1716;Almacenamiento;Discos HDD;Kingston;1088.21;813.59
+93;Xiaomi Gama Alta EI-8939;CELULARES;Gama Alta;Xiaomi;5887.84;3772.89
+94;Dell Desktop ZF-9565;  COMPUTADORAS  ;Desktop;Dell;3597.58;2630.99
+95;Apple Convertible PH-8871;LAPTOPS;Convertible;Apple;5622.86;4298.79
+96;Apple Gama Media DP-4860;CELULARES;Gama Media;Apple;4281.49;2782.87
+97;ASUS Profesional LQ-5009;;Profesional;ASUS;1342.44;947.89
+98;Apple iPadOS CJ-4928;Tablets;iPadOS;Apple;3425.07;2708.29
+99;Xtech Mochilas OO-7570;  accesorios  ;Mochilas;Xtech;77.8;43.07
+100;LG Profesional BH-0293;MONITORES;Profesional;LG;2686.65;2134.18
+101;SanDisk Discos SSD EP-1250;Almacenamiento;Discos SSD;SanDisk;713.44;397.09
+102;Brother Multifuncionales RK-8607;  Impresion  ;Multifuncionales;Brother;607.43;342.53
+103;Brother Toners WJ-9069;Impresion;Toners;Brother;1502.38;874.59
+104;LG Gaming AM-2233;Monitores;Gaming;LG;756.63;536.83
+105;Motorola Gama Alta YK-3180;celulares;Gama Alta;Motorola;5250.13;3357.19
+106;Intel Placas Madre BI-0073;  Componentes  ;Placas Madre;Intel;504.91;312.49
+107;Microsoft Sillas Gamer IQ-4266;Gaming;Sillas Gamer;Microsoft;2248.35;1373.08
+108;Kingston Tarjetas de Video EY-9753;  Componentes  ;Tarjetas de Video;Kingston;4124.15;2659.98
+109;Dell All in One YS-4057;Computadoras;All in One;Dell;3272.98;2291.6
+110;Dell Empresarial QM-1446;LAPTOPS;Empresarial;Dell;3765.69;2642.98
+111;Xtech Cables DU-5674;ACCESORIOS;Cables;Xtech;172.29;101.78
+112;Logitech Mouse XP-6873;Perifericos;Mouse;Logitech;257.17;155.25
+113;Logitech Combos QV-4453;  PERIFERICOS  ;Combos;Logitech;736.07;558.53
+114;Huawei Gama Alta JI-1466;Celulares;Gama Alta;Huawei;4688.92;2848.36
+115;Samsung Gama Alta QV-6583;  Celulares  ;Gama Alta;Samsung;5552.29;4318.36
+116;Dell Desktop JV-4834;computadoras;Desktop;Dell;1508.12;939.98
+117;Redragon Combos OK-3586;PERIFERICOS;Combos;Redragon;706.44;409.53
+118;Samsung Estandar ZT-6736;monitores;Estandar;Samsung;1315.25;728.3
+119;Kingston Memorias microSD BQ-8532;ALMACENAMIENTO;Memorias microSD;Kingston;983.41;595.27
+120;Asus Desktop EA-7758;COMPUTADORAS;Desktop;Asus;1893.89;1261.31
+121;Motorola Gama Alta KX-8943;celulares;Gama Alta;Motorola;3263.59;2108.97
+122;Motorola Gama Media QP-6983;Celulares;Gama Media;Motorola;4606.67;2706.84
+123;SanDisk Pendrives MS-4436;Almacenamiento;Pendrives;SanDisk;691.28;524.0
+124;Dell Empresarial BW-5805;LAPTOPS;Empresarial;Dell;6369.73;3585.39
+125;Targus Protectores de Pantalla UC-4505;ACCESORIOS;Protectores de Pantalla;Targus;285.55;179.91
+126;Samsung Gama Alta ZD-9284;celulares;Gama Alta;Samsung;5224.36;4052.59
+127;Belkin Soportes MR-2007;accesorios;Soportes;Belkin;326.37;246.33
+128;Logitech Webcams CS-2939;perifericos;Webcams;Logitech;61.46;35.14
+129;Logitech Audifonos JL-7737;Audio;Audifonos;Logitech;631.69;437.02
+130;Huawei Gama Baja PJ-5450;celulares;Gama Baja;Huawei;4036.74;2465.27
+131;Intel Tarjetas de Video VJ-0162;Componentes;Tarjetas de Video;Intel;2497.86;1484.77
+132;Belkin Soportes RI-5150;accesorios;Soportes;Belkin;217.44;166.71
+133;Samsung Gama Alta QL-0450;Celulares;Gama Alta;Samsung;1365.08;756.94
+134;Apple Ultrabook VO-8143;LAPTOPS;Ultrabook;Apple;2458.56;1400.68
+135;Xtech Protectores de Pantalla QX-1279;accesorios;Protectores de Pantalla;Xtech;365.9;286.99
+136;Anker Fundas WV-3379;;Fundas;Anker;204.36;139.48
+137;HP Mini PC JP-3111;Computadoras;Mini PC;HP;1857.85;1380.73
+138;Brother Impresoras Laser KZ-5904;;Impresoras Laser;Brother;2004.84;1520.96
+139;Huawei Gama Baja JJ-5274;CELULARES;Gama Baja;Huawei;3009.97;2001.03
+140;TP-Link Focos Inteligentes HS-6625;hogar inteligente;Focos Inteligentes;TP-Link;1142.06;799.01
+141;Lenovo Desktop OH-0857;computadoras;Desktop;Lenovo;2441.26;1564.7
+142;Targus Protectores de Pantalla SV-3855;accesorios;Protectores de Pantalla;Targus;80.69;48.81
+143;Apple iPadOS ZM-1460;Tablets;iPadOS;Apple;3751.49;2535.83
+144;Bose Barras de Sonido GF-1935;Audio;Barras de Sonido;Bose;611.47;365.13
+145;Xiaomi Gama Media UW-7455;Celulares;Gama Media;Xiaomi;4894.96;3785.62
+146;Intel Procesadores IE-3706;  componentes  ;Procesadores;Intel;1913.57;1438.93
+147;Sony Controles DM-2816;  GAMING  ;Controles;Sony;266.49;169.94
+148;Microsoft Consolas GI-3746;Gaming;Consolas;Microsoft;1784.99;1418.2
+149;Targus Soportes BU-1575;accesorios;Soportes;Targus;38.0;27.79
+150;Lenovo Android LW-2641;Tablets;Android;Lenovo;2919.08;2055.93
+151;AMD Procesadores HH-6084;COMPONENTES;Procesadores;AMD;4294.16;3122.59
+152;Targus Cables AL-8762;Accesorios;Cables;Targus;123.42;78.62
+153;Logitech Audifonos OF-9069;Audio;Audifonos;Logitech;1451.37;933.08
+154;Acer Convertible YP-9630;laptops;Convertible;Acer;4398.27;3017.14
+155;Seagate Discos SSD BV-9951;Almacenamiento;Discos SSD;Seagate;885.18;700.32
+156;Western Digital Discos SSD CT-7045;  Almacenamiento  ;Discos SSD;Western Digital;386.41;274.48
+157;Sony Volantes JI-5998;Gaming;Volantes;Sony;2994.36;1750.76
+158;Huawei Gama Alta LW-6731;CELULARES;Gama Alta;Huawei;1270.88;886.14
+159;Lenovo Desktop JH-3438;Computadoras;Desktop;Lenovo;4348.84;3265.73
+160;ASUS Curvo FQ-0485;  Monitores  ;Curvo;ASUS;2182.06;1698.04
+161;HyperX Mouse XM-4202;;Mouse;HyperX;198.54;126.23
+162;HyperX Mouse CR-3645;perifericos;Mouse;HyperX;157.72;110.9
+163;TP-Link Enchufes Inteligentes GP-2823;Hogar Inteligente;Enchufes Inteligentes;TP-Link;803.89;516.98
+164;Samsung Android XX-4275;Tablets;Android;Samsung;3767.45;2892.94
+165;NVIDIA Memorias RAM MN-7672;Componentes;Memorias RAM;NVIDIA;1896.39;1379.84
+166;Samsung Gama Alta LB-1154;celulares;Gama Alta;Samsung;1068.66;670.62
+167;Samsung Curvo HT-4431;Monitores;Curvo;Samsung;1266.23;765.06
+168;Dell Convertible NX-3436;laptops;Convertible;Dell;5600.48;3940.57
+169;Motorola Gama Baja QL-3102;;Gama Baja;Motorola;5684.44;3708.49
+170;Acer Empresarial UB-7711;;Empresarial;Acer;2928.52;2117.37
+171;Samsung Gama Alta RD-6291;Celulares;Gama Alta;Samsung;701.91;494.44
+172;Razer Teclados ZE-9265;;Teclados;Razer;618.56;459.69
+173;Belkin Soportes HB-7328;ACCESORIOS;Soportes;Belkin;36.95;20.68
+174;Google Focos Inteligentes UG-2910;Hogar Inteligente;Focos Inteligentes;Google;795.13;579.52
+175;Dell Empresarial KG-7392;  Laptops  ;Empresarial;Dell;1953.78;1152.85
+176;AOC Gaming KE-9836;Monitores;Gaming;AOC;830.53;549.46
+177;Logitech Webcams BX-5737;Perifericos;Webcams;Logitech;40.25;23.29
+178;Samsung Curvo IK-7105;Monitores;Curvo;Samsung;659.99;385.03
+179;Apple Gama Baja CP-8770;CELULARES;Gama Baja;Apple;2805.77;2044.59
+180;HP Mini PC UF-4599;  Computadoras  ;Mini PC;HP;4742.2;3621.93
+181;Logitech Parlantes RU-5304;Audio;Parlantes;Logitech;113.4;74.86
+182;Sony Barras de Sonido IX-0020;audio;Barras de Sonido;Sony;1468.84;1157.38
+183;Samsung Profesional FJ-6838;Monitores;Profesional;Samsung;2347.79;1814.15
+184;Brother Impresoras Tinta OW-9034;Impresion;Impresoras Tinta;Brother;1302.67;801.55
+185;Dell Desktop GZ-0295;Computadoras;Desktop;Dell;3542.3;2588.4
+186;Xiaomi Focos Inteligentes PX-7603;Hogar Inteligente;Focos Inteligentes;Xiaomi;1042.47;626.59
+187;Nintendo Sillas Gamer XU-0409;Gaming;Sillas Gamer;Nintendo;973.94;702.08
+188;JBL Audifonos RW-3467;  Audio  ;Audifonos;JBL;445.02;270.84
+189;HP Empresarial PY-4182;Laptops;Empresarial;HP;1828.51;1398.1
+190;Dell Empresarial CE-6881;LAPTOPS;Empresarial;Dell;2076.82;1266.26
+191;Xtech Protectores de Pantalla LE-3827;  ACCESORIOS  ;Protectores de Pantalla;Xtech;143.18;85.61
+192;Nintendo Volantes PR-0513;Gaming;Volantes;Nintendo;1059.35;670.93
+193;Netgear Repetidores TK-6018;Redes;Repetidores;Netgear;271.39;210.11
+194;Razer Teclados IQ-2013;Perifericos;Teclados;Razer;448.75;276.51
+195;Canon Toners LC-8253;  Impresion  ;Toners;Canon;1517.32;893.52
+196;Samsung Gama Media HH-8316;Celulares;Gama Media;Samsung;3022.23;2251.29
+197;Targus Cables PI-6360;Accesorios;Cables;Targus;270.45;182.97
+198;Huawei Gama Baja VY-9173;CELULARES;Gama Baja;Huawei;4168.06;3315.94
+199;Kingston Memorias RAM LT-9078;componentes;Memorias RAM;Kingston;978.28;563.33
+200;Samsung Gama Media LC-4767;CELULARES;Gama Media;Samsung;3588.88;2823.38
+201;Xiaomi Gama Alta FQ-0052;Celulares;Gama Alta;Xiaomi;2110.19;1414.45
+202;Targus Protectores de Pantalla DH-1070;Accesorios;Protectores de Pantalla;Targus;176.34;106.83
+203;HP Desktop XY-6348;Computadoras;Desktop;HP;3393.67;2545.83
+204;Motorola Gama Baja GL-0895;CELULARES;Gama Baja;Motorola;3270.13;2291.55
+205;NVIDIA Placas Madre XF-3708;;Placas Madre;NVIDIA;1120.11;874.17
+206;Logitech Combos QZ-1919;;Combos;Logitech;594.14;421.25
+207;Google Enchufes Inteligentes AM-4545;Hogar Inteligente;Enchufes Inteligentes;Google;580.19;380.75
+208;Samsung iPadOS WV-7296;;iPadOS;Samsung;1829.54;1132.38
+209;Amazon Enchufes Inteligentes DB-6192;  Hogar Inteligente  ;Enchufes Inteligentes;Amazon;1052.69;662.32
+210;Huawei Gama Baja CU-7137;  celulares  ;Gama Baja;Huawei;979.79;753.71
+211;Lenovo Android WJ-1886;TABLETS;Android;Lenovo;2546.89;1974.08
+212;LG Estandar ZG-6395;monitores;Estandar;LG;2920.6;1920.5
+213;Nintendo Volantes IO-2667;Gaming;Volantes;Nintendo;1378.88;893.78
+214;TP-Link Asistentes de Voz ND-0557;  hogar inteligente  ;Asistentes de Voz;TP-Link;758.08;486.57
+215;Xiaomi Gama Baja EV-1388;;Gama Baja;Xiaomi;622.69;452.47
+216;Lenovo iPadOS NR-4022;Tablets;iPadOS;Lenovo;3392.26;2174.33
+217;Lenovo iPadOS TY-4614;;iPadOS;Lenovo;3249.22;2184.67
+218;Anker Soportes BN-6627;Accesorios;Soportes;Anker;242.2;147.78
+219;Redragon Mouse EZ-3041;PERIFERICOS;Mouse;Redragon;43.04;27.03
+220;Motorola Gama Baja LO-7614;Celulares;Gama Baja;Motorola;4063.45;2373.09
+221;Apple Gama Baja GO-1524;CELULARES;Gama Baja;Apple;2255.33;1242.29
+222;Asus Convertible VA-1968;Laptops;Convertible;Asus;3522.32;2133.08
+223;Lenovo Ultrabook BQ-3647;Laptops;Ultrabook;Lenovo;2502.05;1898.77
+224;Microsoft Volantes KY-6568;  Gaming  ;Volantes;Microsoft;1529.73;1188.93
+225;Acer Empresarial NY-9870;  laptops  ;Empresarial;Acer;3742.08;2828.44
+226;Bose Barras de Sonido BR-8830;AUDIO;Barras de Sonido;Bose;1473.45;1158.32
+227;Asus All in One PO-8379;Computadoras;All in One;Asus;5865.54;4612.57
+228;Apple iPadOS KL-6315;tablets;iPadOS;Apple;3941.79;2203.31
+229;Logitech Barras de Sonido ED-2912;  Audio  ;Barras de Sonido;Logitech;435.91;253.86
+230;Logitech Mouse RE-6593;Perifericos;Mouse;Logitech;272.83;195.54
+231;HyperX Webcams VR-0406;Perifericos;Webcams;HyperX;338.37;201.48
+232;Razer Teclados IC-2911;Perifericos;Teclados;Razer;670.22;469.15
+233;Bose Barras de Sonido RE-2282;  AUDIO  ;Barras de Sonido;Bose;792.16;512.58
+234;AMD Tarjetas de Video FI-1830;Componentes;Tarjetas de Video;AMD;4949.8;3650.07
+235;LG Profesional PD-1796;Monitores;Profesional;LG;1871.89;1263.35
+236;Sony Audifonos NU-7578;;Audifonos;Sony;725.64;523.58
+237;Samsung iPadOS SL-8497;  Tablets  ;iPadOS;Samsung;1996.17;1529.09
+238;Huawei iPadOS DU-9799;tablets;iPadOS;Huawei;3879.08;2300.78
+239;Huawei Gama Baja HH-2217;celulares;Gama Baja;Huawei;2996.61;2245.52
+240;D-Link Repetidores AW-4865;REDES;Repetidores;D-Link;206.55;125.82
+241;Redragon Combos IQ-8189;  PERIFERICOS  ;Combos;Redragon;264.33;173.29
+242;AMD Tarjetas de Video FN-1061;Componentes;Tarjetas de Video;AMD;3052.38;1870.39
+243;HP Mini PC AM-5631;Computadoras;Mini PC;HP;3113.1;1776.04
+244;Redragon Teclados XW-1297;perifericos;Teclados;Redragon;678.1;393.12
+245;Dell Gaming AM-7261;LAPTOPS;Gaming;Dell;2021.42;1540.25
+246;HP Empresarial FJ-4963;LAPTOPS;Empresarial;HP;7892.5;5047.91
+247;Samsung Android NH-8119;TABLETS;Android;Samsung;911.55;634.81
+248;Razer Combos ZH-9990;;Combos;Razer;415.29;260.7
+249;Lenovo iPadOS PA-2013;Tablets;iPadOS;Lenovo;1689.71;1109.36
+250;Huawei iPadOS WM-7167;Tablets;iPadOS;Huawei;2896.76;1807.42
+251;Apple iPadOS ZS-2163;  Tablets  ;iPadOS;Apple;2080.56;1146.37
+252;Corsair Memorias RAM EE-3613;Componentes;Memorias RAM;Corsair;1427.94;805.41
+253;Anker Cables LC-9854;accesorios;Cables;Anker;139.13;91.34
+254;Brother Multifuncionales PE-0490;Impresion;Multifuncionales;Brother;583.61;445.05
+255;Apple Gama Baja XH-2954;Celulares;Gama Baja;Apple;3698.61;2668.25
+256;Xtech Cables SA-5835;  ACCESORIOS  ;Cables;Xtech;248.94;165.12
+257;HyperX Teclados WH-3998;perifericos;Teclados;HyperX;193.58;139.82
+258;Xiaomi Gama Alta MO-2743;Celulares;Gama Alta;Xiaomi;3520.59;2506.31
+259;Targus Cables GC-2255;accesorios;Cables;Targus;188.32;140.08
+260;HP Mini PC UJ-4192;Computadoras;Mini PC;HP;1949.74;1328.16
+261;Razer Mouse LG-1476;PERIFERICOS;Mouse;Razer;520.58;383.36
+262;Motorola Gama Alta HS-2360;Celulares;Gama Alta;Motorola;3886.6;2320.44
+263;Apple Gama Baja MQ-8639;CELULARES;Gama Baja;Apple;776.93;572.4
+264;Intel Tarjetas de Video UX-5413;Componentes;Tarjetas de Video;Intel;1343.29;925.61
+265;Huawei iPadOS GU-8453;Tablets;iPadOS;Huawei;3446.51;2350.65
+266;Acer Convertible PA-6309;  LAPTOPS  ;Convertible;Acer;7903.12;4493.51
+267;Razer Controles QV-7968;Gaming;Controles;Razer;1396.18;854.92
+268;Microsoft Consolas BS-5909;GAMING;Consolas;Microsoft;508.81;389.02
+269;Motorola Gama Media DI-4598;CELULARES;Gama Media;Motorola;2424.14;1716.68
+270;Acer Ultrabook ML-4089;laptops;Ultrabook;Acer;4572.87;3537.4
+271;Razer Controles VP-1773;Gaming;Controles;Razer;1255.52;897.83
+272;Targus Fundas EE-1668;accesorios;Fundas;Targus;87.31;59.63
+273;Motorola Gama Media MB-3397;Celulares;Gama Media;Motorola;5183.66;3785.43
+274;Western Digital Memorias microSD HE-7072;Almacenamiento;Memorias microSD;Western Digital;1133.89;689.49
+275;Dell Empresarial TI-3402;  LAPTOPS  ;Empresarial;Dell;3390.87;2203.34
+276;Logitech Parlantes SN-2241;Audio;Parlantes;Logitech;1206.67;769.19
+277;Intel Memorias RAM RP-8306;Componentes;Memorias RAM;Intel;3970.24;2407.28
+278;Xiaomi Gama Media TA-2365;Celulares;Gama Media;Xiaomi;3699.7;2438.15
+279;Anker Mochilas SR-1814;  Accesorios  ;Mochilas;Anker;152.46;112.8
+280;Razer Combos JQ-2484;Perifericos;Combos;Razer;81.48;46.53
+281;Huawei Gama Baja ZW-0243;celulares;Gama Baja;Huawei;1201.65;759.85
+282;Redragon Teclados CA-5094;Perifericos;Teclados;Redragon;497.8;346.94
+283;HP Ultrabook BQ-5118;laptops;Ultrabook;HP;5401.47;3524.12
+284;Anker Mochilas AN-1564;  ACCESORIOS  ;Mochilas;Anker;366.11;271.67
+285;Microsoft Controles FW-9414;Gaming;Controles;Microsoft;477.62;272.8
+286;Canon Impresoras Laser TE-3989;impresion;Impresoras Laser;Canon;1182.14;783.57
+287;Canon Toners TO-3705;;Toners;Canon;1629.29;969.19
+288;Motorola Gama Alta RO-2451;Celulares;Gama Alta;Motorola;435.71;317.05
+289;NVIDIA Placas Madre YE-9082;  Componentes  ;Placas Madre;NVIDIA;4759.83;3467.55
+290;Lenovo Empresarial YU-1035;LAPTOPS;Empresarial;Lenovo;2550.02;1722.36
+291;Targus Mochilas LL-9429;Accesorios;Mochilas;Targus;110.19;83.35
+292;Motorola Gama Alta YT-0237;celulares;Gama Alta;Motorola;1911.42;1482.02
+293;Apple Ultrabook ML-6696;laptops;Ultrabook;Apple;5794.82;3249.69
+294;Seagate Discos SSD OI-2953;Almacenamiento;Discos SSD;Seagate;1002.11;774.97
+295;Samsung Gama Alta FE-6194;celulares;Gama Alta;Samsung;1097.19;741.57
+296;Samsung Gama Baja NY-8390;celulares;Gama Baja;Samsung;3795.27;2574.85
+297;Dell Desktop PO-3424;Computadoras;Desktop;Dell;4748.5;3565.87
+298;Belkin Protectores de Pantalla BR-2406;  accesorios  ;Protectores de Pantalla;Belkin;167.28;106.13
+299;Apple Gama Baja AM-2834;celulares;Gama Baja;Apple;1412.84;890.46
+300;Google Camaras de Seguridad MO-3488;hogar inteligente;Camaras de Seguridad;Google;165.17;101.55
+301;Apple Empresarial XG-3437;laptops;Empresarial;Apple;3278.6;1878.97
+302;Kingston Procesadores QU-8669;Componentes;Procesadores;Kingston;2304.11;1367.52
+303;Asus Desktop ZS-0865;Computadoras;Desktop;Asus;4205.32;2719.92
+304;Lenovo Convertible LY-2438;Laptops;Convertible;Lenovo;7481.25;4872.08
+305;Logitech Mouse VB-9285;Perifericos;Mouse;Logitech;712.91;463.78
+306;Seagate Discos HDD BK-7435;Almacenamiento;Discos HDD;Seagate;1101.11;653.53
+307;Belkin Fundas ZN-5288;  accesorios  ;Fundas;Belkin;61.14;37.83
+308;SanDisk Pendrives OA-5947;Almacenamiento;Pendrives;SanDisk;1084.79;782.17
+309;Apple Empresarial BS-3969;;Empresarial;Apple;4899.45;3396.1
+310;Samsung Gama Alta GE-5359;CELULARES;Gama Alta;Samsung;5951.26;3772.55
+311;Apple Gama Baja DH-6504;Celulares;Gama Baja;Apple;1016.76;655.43
+312;Nintendo Consolas CW-8830;Gaming;Consolas;Nintendo;809.54;600.99
+313;HP Mini PC IJ-9954;Computadoras;Mini PC;HP;3314.25;2404.8
+314;HP Mini PC SV-8734;Computadoras;Mini PC;HP;4069.64;3051.16
+315;Redragon Webcams BB-9668;PERIFERICOS;Webcams;Redragon;428.71;325.64
+316;Amazon Focos Inteligentes LQ-7989;Hogar Inteligente;Focos Inteligentes;Amazon;266.7;192.78
+317;HP Convertible DS-7061;LAPTOPS;Convertible;HP;1778.47;1103.02
+318;Xiaomi Enchufes Inteligentes FQ-0690;  Hogar Inteligente  ;Enchufes Inteligentes;Xiaomi;689.5;425.47
+319;Asus Desktop BW-9711;Computadoras;Desktop;Asus;5616.88;3598.13
+320;Motorola Gama Media GV-3847;Celulares;Gama Media;Motorola;5204.6;3648.95
+321;Dell Mini PC BU-6756;  Computadoras  ;Mini PC;Dell;3223.25;2520.77
+322;Anker Mochilas IU-5051;Accesorios;Mochilas;Anker;41.99;25.91
+323;Lenovo Mini PC YF-8601;COMPUTADORAS;Mini PC;Lenovo;3762.3;2774.68
+324;Huawei Gama Baja NS-4492;celulares;Gama Baja;Huawei;4644.78;3331.14
+325;D-Link Tarjetas de Red KH-3596;Redes;Tarjetas de Red;D-Link;856.52;562.01
+326;Lenovo iPadOS WB-5045;  Tablets  ;iPadOS;Lenovo;2925.08;2199.34
+327;Apple Gama Media YO-5669;  Celulares  ;Gama Media;Apple;5142.08;2902.51
+328;Lenovo Ultrabook IT-7540;Laptops;Ultrabook;Lenovo;2529.78;2010.33
+329;Razer Combos EE-4286;Perifericos;Combos;Razer;75.39;60.26
+330;D-Link Tarjetas de Red ZC-8925;REDES;Tarjetas de Red;D-Link;763.92;460.82
+331;HP Convertible VD-1402;laptops;Convertible;HP;4848.05;3602.31
+332;Bose Parlantes BV-3857;audio;Parlantes;Bose;965.04;713.43
+333;Motorola Gama Alta YE-2648;celulares;Gama Alta;Motorola;4104.51;2659.84
+334;Lenovo Gaming KP-6384;LAPTOPS;Gaming;Lenovo;2813.93;2106.23
+335;Targus Cables MU-6806;Accesorios;Cables;Targus;123.89;74.04
+336;Acer Convertible UF-8530;  Laptops  ;Convertible;Acer;7660.03;5522.6
+337;Belkin Cables JK-0127;  ACCESORIOS  ;Cables;Belkin;347.58;220.75
+338;HP Gaming ZN-6951;Laptops;Gaming;HP;4743.87;2640.93
+339;Asus Desktop XJ-3048;Computadoras;Desktop;Asus;2320.48;1662.42
+340;Kingston Memorias RAM YW-7758;Componentes;Memorias RAM;Kingston;1651.61;1141.58
+341;Asus Desktop UA-7036;Computadoras;Desktop;Asus;4827.4;3514.39
+342;Motorola Gama Baja NQ-2036;Celulares;Gama Baja;Motorola;3795.79;2565.29
+343;HP Empresarial QZ-4439;laptops;Empresarial;HP;3308.0;2645.97
+344;Lenovo Ultrabook OG-8963;Laptops;Ultrabook;Lenovo;4791.67;3652.85
+345;Motorola Gama Alta OX-8123;celulares;Gama Alta;Motorola;1859.97;1437.2
+346;Apple Gama Baja TV-7617;celulares;Gama Baja;Apple;4048.36;2975.86
+347;Seagate Pendrives CT-0731;ALMACENAMIENTO;Pendrives;Seagate;1193.92;896.39
+348;Bose Parlantes BL-4577;Audio;Parlantes;Bose;1348.42;1046.96
+349;TP-Link Enchufes Inteligentes ZC-6263;Hogar Inteligente;Enchufes Inteligentes;TP-Link;945.17;565.9
+350;Razer Volantes NJ-8508;Gaming;Volantes;Razer;364.12;229.21
+351;Lenovo Convertible YF-9774;;Convertible;Lenovo;7674.63;4871.0
+352;Microsoft Volantes PP-5944;Gaming;Volantes;Microsoft;1778.26;1025.84
+353;Razer Teclados LW-4852;Perifericos;Teclados;Razer;542.38;417.84
+354;HP Convertible BW-3774;  laptops  ;Convertible;HP;3421.62;2474.12
+355;Dell Gaming AJ-3767;laptops;Gaming;Dell;2823.1;1707.04
+356;Logitech Audifonos JB-7404;Audio;Audifonos;Logitech;464.64;325.2
+357;TP-Link Focos Inteligentes FT-7675;Hogar Inteligente;Focos Inteligentes;TP-Link;964.3;610.62
+358;AMD Procesadores TF-9753;Componentes;Procesadores;AMD;1163.23;644.35
+359;Apple Gama Media PX-1573;Celulares;Gama Media;Apple;2468.69;1706.09
+360;Anker Cables DY-3099;Accesorios;Cables;Anker;379.92;215.61
+361;JBL Parlantes VC-0094;AUDIO;Parlantes;JBL;111.41;79.33
+362;Lenovo Gaming UG-6565;  LAPTOPS  ;Gaming;Lenovo;7651.62;5861.79
+363;HP Ultrabook VP-2344;  laptops  ;Ultrabook;HP;6583.86;4667.79
+364;NVIDIA Fuentes de Poder PV-8565;Componentes;Fuentes de Poder;NVIDIA;3092.65;2225.36
+365;Xtech Protectores de Pantalla BC-2326;Accesorios;Protectores de Pantalla;Xtech;310.43;215.39
+366;HP Impresoras Laser BK-0047;Impresion;Impresoras Laser;HP;2469.92;1543.81
+367;Asus Convertible TL-1103;Laptops;Convertible;Asus;6254.41;4970.06
+368;Asus Empresarial MS-5611;LAPTOPS;Empresarial;Asus;4306.1;2435.39
+369;Western Digital Pendrives VZ-9899;almacenamiento;Pendrives;Western Digital;1140.5;769.55
+370;AOC Gaming GR-5118;Monitores;Gaming;AOC;3223.16;1880.22
+371;Belkin Mochilas YR-5837;ACCESORIOS;Mochilas;Belkin;165.97;114.49
+372;Redragon Teclados UT-6614;Perifericos;Teclados;Redragon;508.14;399.16
+373;Belkin Mochilas GP-7761;accesorios;Mochilas;Belkin;334.99;200.29
+374;Apple Android RU-6870;Tablets;Android;Apple;2258.6;1753.5
+375;HyperX Mouse QP-7966;perifericos;Mouse;HyperX;782.85;623.12
+376;Razer Teclados BV-6829;Perifericos;Teclados;Razer;706.9;565.38
+377;Brother Impresoras Laser VM-5256;impresion;Impresoras Laser;Brother;1710.9;1302.48
+378;Acer Gaming PN-9508;laptops;Gaming;Acer;5626.34;3399.04
+379;Asus Empresarial SO-1423;LAPTOPS;Empresarial;Asus;7303.66;5184.95
+380;Xiaomi Gama Media FB-0292;Celulares;Gama Media;Xiaomi;2565.98;2035.64
+381;Xtech Soportes ER-4054;Accesorios;Soportes;Xtech;21.0;16.69
+382;Samsung iPadOS LJ-3986;tablets;iPadOS;Samsung;2964.42;2158.6
+383;Belkin Soportes EN-1405;Accesorios;Soportes;Belkin;355.75;220.72
+384;Sony Audifonos CT-1866;  Audio  ;Audifonos;Sony;620.87;423.05
+385;Logitech Webcams NJ-7473;PERIFERICOS;Webcams;Logitech;341.22;227.24
+386;Apple Gama Alta UV-9147;Celulares;Gama Alta;Apple;3802.82;2813.1
+387;ASUS Profesional DT-8524;Monitores;Profesional;ASUS;3433.04;1937.29
+388;Razer Teclados UM-4203;  Perifericos  ;Teclados;Razer;483.54;270.33
+389;Motorola Gama Alta VR-4410;Celulares;Gama Alta;Motorola;5471.04;3753.84
+390;ASUS Estandar PO-2387;Monitores;Estandar;ASUS;1746.49;1348.36
+391;Lenovo iPadOS AT-5186;Tablets;iPadOS;Lenovo;3521.17;2208.82
+392;Razer Teclados NF-7741;Perifericos;Teclados;Razer;149.3;112.91
+393;Ubiquiti Switches RM-3518;  Redes  ;Switches;Ubiquiti;505.28;281.18
+394;Intel Memorias RAM XM-0258;COMPONENTES;Memorias RAM;Intel;1280.94;836.89
+395;Canon Impresoras Tinta FW-4658;Impresion;Impresoras Tinta;Canon;1970.09;1202.72
+396;Xiaomi Camaras de Seguridad XO-3988;hogar inteligente;Camaras de Seguridad;Xiaomi;1089.66;743.33
+397;Razer Teclados MU-2178;  PERIFERICOS  ;Teclados;Razer;724.96;514.02
+398;HyperX Mouse ZK-5990;Perifericos;Mouse;HyperX;609.35;370.96
+399;Belkin Protectores de Pantalla JY-8412;Accesorios;Protectores de Pantalla;Belkin;219.59;153.91
+400;Dell Ultrabook YD-5581;laptops;Ultrabook;Dell;3511.81;2306.15
+401;ASUS Curvo IN-5923;  Monitores  ;Curvo;ASUS;2834.85;1759.25
+402;Huawei Gama Baja IW-1934;Celulares;Gama Baja;Huawei;3662.66;2577.61
+403;Asus Convertible UD-9180;Laptops;Convertible;Asus;1516.05;1181.63
+404;Asus Ultrabook YM-3814;Laptops;Ultrabook;Asus;7336.14;4767.05
+405;Bose Barras de Sonido TK-4292;Audio;Barras de Sonido;Bose;319.14;241.26
+406;Motorola Gama Baja DV-1959;celulares;Gama Baja;Motorola;2564.45;1563.05
+407;Brother Multifuncionales LE-3091;Impresion;Multifuncionales;Brother;2174.17;1398.01
+408;Samsung Gama Media MS-8527;  Celulares  ;Gama Media;Samsung;4731.97;3641.86
+409;JBL Barras de Sonido FM-1146;audio;Barras de Sonido;JBL;1394.74;900.67
+410;Lenovo All in One XM-3155;;All in One;Lenovo;2062.29;1479.61
+411;LG Curvo CM-0153;Monitores;Curvo;LG;968.94;603.7
+412;Razer Teclados CC-0440;;Teclados;Razer;132.3;72.88
+413;Belkin Soportes NV-8110;ACCESORIOS;Soportes;Belkin;132.37;80.13
+414;Sony Volantes TQ-6598;Gaming;Volantes;Sony;2582.2;1828.38
+415;Motorola Gama Alta VT-5576;Celulares;Gama Alta;Motorola;5225.17;3540.61
+416;AOC Estandar TH-6345;monitores;Estandar;AOC;2314.18;1678.13
+417;Redragon Mouse GJ-8299;Perifericos;Mouse;Redragon;739.39;522.75
+418;Belkin Mochilas VJ-6994;ACCESORIOS;Mochilas;Belkin;240.98;152.4
+419;HyperX Combos NU-0641;  PERIFERICOS  ;Combos;HyperX;105.62;64.17
+420;Ubiquiti Tarjetas de Red SV-1061;Redes;Tarjetas de Red;Ubiquiti;615.64;364.23
+421;LG Curvo BD-6691;;Curvo;LG;925.98;707.41
+422;Lenovo Gaming IZ-8224;Laptops;Gaming;Lenovo;5752.53;4036.84
+423;Corsair Memorias RAM AG-1682;Componentes;Memorias RAM;Corsair;1535.53;999.61
+424;SanDisk Pendrives WO-2217;Almacenamiento;Pendrives;SanDisk;923.4;678.42
+425;D-Link Routers KX-6269;  Redes  ;Routers;D-Link;180.86;103.95
+426;Targus Fundas MO-6208;accesorios;Fundas;Targus;337.31;242.97
+427;HyperX Webcams VA-4791;Perifericos;Webcams;HyperX;318.82;193.21
+428;Logitech Audifonos IQ-0593;Audio;Audifonos;Logitech;1373.9;905.74
+429;Samsung Gama Baja JO-5722;CELULARES;Gama Baja;Samsung;1916.15;1065.24
+430;Redragon Combos JB-7032;PERIFERICOS;Combos;Redragon;791.06;596.31
+431;Anker Fundas VN-0748;  accesorios  ;Fundas;Anker;254.15;170.37
+432;Xiaomi Focos Inteligentes JD-7243;hogar inteligente;Focos Inteligentes;Xiaomi;569.76;443.96
+433;TP-Link Tarjetas de Red FS-1295;  Redes  ;Tarjetas de Red;TP-Link;338.02;228.42
+434;AOC Profesional RG-5205;Monitores;Profesional;AOC;908.67;580.81
+435;Anker Soportes BZ-0286;Accesorios;Soportes;Anker;304.76;188.77
+436;Huawei iPadOS BL-6048;  Tablets  ;iPadOS;Huawei;2695.88;1763.2
+437;Intel Memorias RAM YW-2406;Componentes;Memorias RAM;Intel;3551.21;2367.99
+438;Huawei Gama Alta ZZ-4747;Celulares;Gama Alta;Huawei;3315.21;2118.52
+439;Apple Gama Alta BQ-9509;celulares;Gama Alta;Apple;2237.41;1476.13
+440;Belkin Cables VB-1898;  accesorios  ;Cables;Belkin;297.61;213.38
+441;Corsair Fuentes de Poder GY-6430;COMPONENTES;Fuentes de Poder;Corsair;208.78;132.6
+442;Western Digital Discos SSD OG-5562;Almacenamiento;Discos SSD;Western Digital;490.28;338.76
+443;Motorola Gama Alta GC-8788;  celulares  ;Gama Alta;Motorola;5528.8;4316.85
+444;Dell Desktop NP-6569;Computadoras;Desktop;Dell;4675.96;2659.73
+445;HyperX Combos AP-1360;Perifericos;Combos;HyperX;175.78;103.08
+446;Asus Convertible FG-2290;LAPTOPS;Convertible;Asus;7615.57;5767.37
+447;Asus Empresarial RE-3860;Laptops;Empresarial;Asus;5395.94;3281.94
+448;Motorola Gama Alta WK-9471;CELULARES;Gama Alta;Motorola;5295.35;3063.79
+449;Redragon Mouse BN-9038;PERIFERICOS;Mouse;Redragon;344.95;206.18
+450;Kingston Tarjetas de Video LZ-5148;Componentes;Tarjetas de Video;Kingston;4714.35;3514.09
+451;Dell Mini PC TK-5382;  Computadoras  ;Mini PC;Dell;5277.26;4139.27
+452;Xiaomi Gama Alta TW-4419;celulares;Gama Alta;Xiaomi;2267.15;1318.52
+453;Lenovo iPadOS UD-1479;Tablets;iPadOS;Lenovo;2888.68;1785.32
+454;HP Convertible IJ-5347;LAPTOPS;Convertible;HP;3700.54;2454.54
+455;HyperX Webcams VA-3951;Perifericos;Webcams;HyperX;559.71;316.49
+456;Kingston Fuentes de Poder VU-7309;;Fuentes de Poder;Kingston;1478.54;1163.6
+457;Apple iPadOS AZ-3267;  Tablets  ;iPadOS;Apple;940.42;526.99
+458;Huawei Gama Media ZO-8488;  CELULARES  ;Gama Media;Huawei;1401.72;998.66
+459;Canon Toners SQ-8656;Impresion;Toners;Canon;918.89;638.12
+460;D-Link Switches XQ-2925;REDES;Switches;D-Link;394.73;223.65
+461;Xiaomi Gama Media KT-8228;  Celulares  ;Gama Media;Xiaomi;5345.17;4041.59
+462;Apple Gaming NJ-8018;Laptops;Gaming;Apple;2955.67;2193.97
+463;Kingston Tarjetas de Video BG-3530;COMPONENTES;Tarjetas de Video;Kingston;3847.84;2319.37
+464;Anker Mochilas UT-8568;accesorios;Mochilas;Anker;316.69;189.81
+465;Logitech Combos GB-6767;  Perifericos  ;Combos;Logitech;125.95;80.65
+466;Logitech Parlantes ZJ-9645;Audio;Parlantes;Logitech;528.69;377.58
+467;Motorola Gama Baja KU-3744;;Gama Baja;Motorola;4438.76;2840.35
+468;Western Digital Memorias microSD FO-9752;Almacenamiento;Memorias microSD;Western Digital;198.56;127.18
+469;Intel Memorias RAM UW-5317;COMPONENTES;Memorias RAM;Intel;2234.46;1470.89
+470;ASUS Profesional SN-5928;Monitores;Profesional;ASUS;3466.41;2073.92
+471;Kingston Pendrives RF-7487;Almacenamiento;Pendrives;Kingston;680.07;444.36
+472;JBL Parlantes RK-1486;Audio;Parlantes;JBL;1287.62;858.4
+473;Xtech Soportes VP-6751;accesorios;Soportes;Xtech;51.11;36.46
+474;Apple Android BQ-1997;  Tablets  ;Android;Apple;1914.83;1326.51
+475;AMD Memorias RAM AW-5349;Componentes;Memorias RAM;AMD;2032.54;1274.57
+476;Logitech Audifonos TH-5156;Audio;Audifonos;Logitech;783.09;493.99
+477;Xiaomi Gama Media MB-9678;celulares;Gama Media;Xiaomi;4737.02;3552.43
+478;Motorola Gama Baja NW-3009;celulares;Gama Baja;Motorola;1865.23;1137.39
+479;Targus Fundas ZY-8201;  ACCESORIOS  ;Fundas;Targus;313.04;178.01
+480;Canon Toners KE-3015;Impresion;Toners;Canon;284.76;174.64
+481;Belkin Mochilas IH-2242;  Accesorios  ;Mochilas;Belkin;347.77;259.21
+482;Intel Fuentes de Poder XQ-4834;COMPONENTES;Fuentes de Poder;Intel;1742.79;1342.62
+483;Bose Audifonos AJ-9276;;Audifonos;Bose;478.49;318.58
+484;Belkin Protectores de Pantalla BP-0984;ACCESORIOS;Protectores de Pantalla;Belkin;362.83;259.36
+485;TP-Link Tarjetas de Red RA-0180;Redes;Tarjetas de Red;TP-Link;93.01;65.21
+486;Razer Consolas AE-3348;GAMING;Consolas;Razer;208.07;158.33
+487;Targus Protectores de Pantalla XY-5373;Accesorios;Protectores de Pantalla;Targus;106.61;81.18
+488;JBL Audifonos GW-8667;Audio;Audifonos;JBL;892.01;678.62
+489;Samsung Gama Media BW-5446;CELULARES;Gama Media;Samsung;4828.79;3035.52
+490;Seagate Pendrives CN-3926;  Almacenamiento  ;Pendrives;Seagate;563.22;326.24
+491;Dell Curvo OS-6746;Monitores;Curvo;Dell;1200.48;690.44
+492;Dell Gaming OV-2720;laptops;Gaming;Dell;6570.46;5061.55
+493;Xtech Soportes KE-3649;accesorios;Soportes;Xtech;343.77;260.43
+494;Dell Gaming WA-1928;Laptops;Gaming;Dell;6635.8;4949.12
+495;HP Desktop VC-7285;;Desktop;HP;4377.64;2902.93
+496;Xtech Soportes UY-2155;accesorios;Soportes;Xtech;282.73;222.72
+497;Asus Gaming RF-3830;;Gaming;Asus;1763.95;1399.51
+498;Dell Gaming IF-7558;LAPTOPS;Gaming;Dell;4010.27;2857.29
+499;Targus Mochilas QN-2626;  ACCESORIOS  ;Mochilas;Targus;113.01;62.98
+500;HyperX Combos PG-9567;Perifericos;Combos;HyperX;398.05;249.47

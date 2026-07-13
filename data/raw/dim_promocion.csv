@@ -1,0 +1,41 @@
+id_promocion;nombre;tipo;descuento_pct;fecha_inicio;fecha_fin
+1;Semana del Gamer Tech 1;Bundle;10;2024-03-18;2024-03-24
+2;Cyber Monday Gamer 2;Descuento %;20;2024-04-01;2024-04-07
+3;Fiestas Patrias Hogar 3;Liquidación;20;15/10/2024;2024-10-22
+4;Cyber Monday Total 4;Cupón;15;22/11/2024;2024-11-29
+5;Fiestas Patrias Hogar 5;2x1;30;01/12/2024;24 de diciembre de 2024
+6;Aniversario TechStore Total 6;Descuento %;35;2024-07-20;29 de julio de 2024
+7;Black Friday Total 7;Liquidación;25;17/03/2025;23/03/2025
+8;Navidad TechStore Hogar 8;Cupón;40;01/04/2025;7 de abril de 2025
+9;Cyber Days Marzo Total 9;Cupón;10;2025-10-14;2025-10-21
+10;Cyber Days Marzo Tech 10;Liquidación;10;21/11/2025;2025-11-28
+11;Descuento Flash Total 11;Cupón;35;2025-12-01;2025-12-24
+12;Black Friday Hogar 12;2x1;35;2025-07-20;29/07/2025
+13;Semana del Gamer Gamer 13;Liquidación;10;14/09/2024;2024-09-22
+14;Cyber Monday Gamer 14;Descuento %;10;11/07/2024;18/07/2024
+15;Semana del Gamer Tech 15;Cupón;40;2025-07-27;4 de agosto de 2025
+16;Fiestas Patrias Tech 16;Liquidación;15;2025-04-21;2025-04-24
+17;Navidad TechStore Gamer 17;Descuento %;40;2024-12-12;19/12/2024
+18;Cyber Monday Hogar 18;Bundle;35;2024-01-01;2024-01-10
+19;Cyber Days Octubre Gamer 19;2x1;15;2024-09-01;2024-09-05
+20;Regreso a Clases Hogar 20;Liquidación;35;2025-09-19;2025-09-22
+21;Regreso a Clases Hogar 21;2x1;10;23/10/2025;26/10/2025
+22;Cyber Monday Total 22;Cupón;25;22/03/2025;2025-03-31
+23;Descuento Flash Hogar 23;Descuento %;20;08/11/2024;17 de noviembre de 2024
+24;Fiestas Patrias Tech 24;2x1;15;2024-07-08;11/07/2024
+25;Black Friday Total 25;Liquidación;40;2025-05-23;2025-05-26
+26;Navidad TechStore Tech 26;Bundle;25;17/10/2024;26/10/2024
+27;Cyber Days Marzo Hogar 27;Liquidación;15;2025-05-26;2025-06-02
+28;Cyber Wow Total 28;Cupón;10;29 de septiembre de 2025;2025-10-02
+29;Semana del Gamer Hogar 29;Liquidación;25;12/07/2025;19 de julio de 2025
+30;Aniversario TechStore Hogar 30;Descuento %;10;2025-12-03;2025-12-07
+31;Semana del Gamer Gamer 31;Bundle;25;2025-07-27;5 de agosto de 2025
+32;Cyber Days Marzo Hogar 32;Liquidación;25;2024-07-05;13 de julio de 2024
+33;Black Friday Tech 33;Bundle;10;17/01/2024;26 de enero de 2024
+34;Descuento Flash Hogar 34;Bundle;20;20 de febrero de 2024;2024-02-27
+35;Cyber Wow Gamer 35;Descuento %;10;23/01/2024;26/01/2024
+36;Cyber Days Marzo Hogar 36;Bundle;30;2025-06-28;2025-07-05
+37;Cyber Wow Tech 37;2x1;15;2025-06-16;2025-06-21
+38;Regreso a Clases Gamer 38;Bundle;20;2025-10-08;2025-10-14
+39;Fiestas Patrias Hogar 39;Liquidación;25;2025-11-23;29 de noviembre de 2025
+40;Aniversario TechStore Gamer 40;Bundle;20;2025-02-24;28/02/2025
